@@ -10,7 +10,7 @@
     "description": "--publish 8081:8081\/tcp --publish 37015:37015\/udp",
     "features": null,
     "docker_images": {
-        "docker.io\/draakoor\/northstar:latest": "docker.io\/draakoor\/northstar:latest"
+        "docker.io\/draakoor\/northstar:latest": "ghcr.io\/draakoor\/ptenorthstar"
     },
     "file_denylist": [],
     "startup": "\/bin\/bash",
