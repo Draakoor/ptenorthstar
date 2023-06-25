@@ -5,3 +5,4 @@ Add the mount to the egg, be sure the mount is mounted to the server before laun
 enjoy.  
 Add Variables for the server like in the docs if needed ( https://r2northstar.gitbook.io/r2northstar-wiki/hosting-a-server-with-northstar/dedicated-server/hosting-on-linux )  
 Use the docker image here in github or found on docker.io docker.io/draakoor/northstar:latest
+.
